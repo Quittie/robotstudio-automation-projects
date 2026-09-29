@@ -1,10 +1,10 @@
 # Contour Following with a Custom Tool
 
-![RobotStudio contour-following station overview](../assets/contour-following-preview.png)
+![16-second loop of the RobotStudio contour-following simulation](../assets/contour-following-preview.gif)
 
 An individual ABB RobotStudio simulation in which an industrial robot follows programmed contours on three workpieces using a custom tool.
 
-▶ [Watch the recorded RobotStudio simulation](../assets/contour-following-simulation.mp4)
+The animation above is a short loop from the simulation. ▶ [Watch the full recorded RobotStudio simulation](../assets/contour-following-simulation.mp4)
 
 ## Objective
 
@@ -34,6 +34,7 @@ Except for the standard ABB robot model, all 3D elements used in this station we
 ## Files
 
 - [`contour-following.rspag`](station/contour-following.rspag) — ABB RobotStudio Pack & Go archive with the station and RAPID program.
+- [`contour-following-preview.gif`](../assets/contour-following-preview.gif) — short animated preview shown directly in this README.
 - [`contour-following-simulation.mp4`](../assets/contour-following-simulation.mp4) — recorded execution of the contour-following trajectory in RobotStudio.
 
 ## Software
