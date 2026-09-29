@@ -21,6 +21,7 @@ An ABB industrial robot follows programmed contours on three objects with a cust
 **Included source**
 
 - [`contour-following.rspag`](contour-following/station/contour-following.rspag) — ABB RobotStudio Pack & Go archive, including the station and RAPID program.
+- [Detailed project README](contour-following/README.md)
 
 ### 2. Sensor-Based Pick and Place
 
@@ -36,6 +37,7 @@ The station uses RobotStudio simulation components for sensor detection, attachm
 
 - [`sensor-based-pick-and-place.rsstn`](sensor-based-pick-and-place/station/sensor-based-pick-and-place.rsstn) — ABB RobotStudio station.
 - [`robot-gripper-jaws.ipt`](sensor-based-pick-and-place/cad/robot-gripper-jaws.ipt) — Autodesk Inventor source model for the gripper jaws.
+- [Detailed project README](sensor-based-pick-and-place/README.md)
 
 ## 3D Station Design
 
