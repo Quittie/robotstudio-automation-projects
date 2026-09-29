@@ -18,3 +18,9 @@ An individual ABB RobotStudio simulation of bidirectional block transfer between
 - [`robot-gripper-jaws.ipt`](cad/robot-gripper-jaws.ipt) — Autodesk Inventor source model.
 
 The project was developed and validated as a RobotStudio simulation. It was not deployed in a physical robot cell.
+
+## 3D station design
+
+Except for the ABB robot model, every 3D element in this station was designed and created by Piotr Trusiewicz. This includes both tables, the transferred workpiece, the custom gripper and its jaws, and the remaining station geometry.
+
+![Custom gripper jaws designed for the station](../assets/robot-gripper-jaws-cad.png)
