@@ -12,8 +12,6 @@ With the exception of the standard ABB robot model, I designed and created all 3
 
 ![16-second loop of the RobotStudio contour-following simulation](assets/contour-following-preview.gif)
 
-![Close-up of the contour-following station geometry](assets/contour-following-preview.png)
-
 An ABB industrial robot follows programmed contours on three objects with a custom tool. The task focuses on defining a tool, work object and a sequence of robot targets for a repeatable trajectory.
 
 The animation above is a short loop from the simulation. ▶ [Watch the full RobotStudio contour-following recording](assets/contour-following-simulation.mp4)
