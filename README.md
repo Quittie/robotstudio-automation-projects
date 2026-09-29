@@ -14,6 +14,8 @@ With the exception of the standard ABB robot model, I designed and created all 3
 
 An ABB industrial robot follows programmed contours on three objects with a custom tool. The task focuses on defining a tool, work object and a sequence of robot targets for a repeatable trajectory.
 
+▶ [Watch the RobotStudio contour-following simulation](assets/contour-following-simulation.mp4)
+
 ![Contour-following targets programmed in RobotStudio](assets/contour-following-motion-08.jpg)
 
 ![Robot following the generated contour path](assets/contour-following-motion-14.jpg)
@@ -21,6 +23,7 @@ An ABB industrial robot follows programmed contours on three objects with a cust
 **Included source**
 
 - [`contour-following.rspag`](contour-following/station/contour-following.rspag) — ABB RobotStudio Pack & Go archive, including the station and RAPID program.
+- [`contour-following-simulation.mp4`](assets/contour-following-simulation.mp4) — recorded RobotStudio simulation of the programmed contour-following trajectory.
 - [Detailed project README](contour-following/README.md)
 
 ### 2. Sensor-Based Pick and Place

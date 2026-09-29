@@ -4,6 +4,8 @@
 
 An individual ABB RobotStudio simulation in which an industrial robot follows programmed contours on three workpieces using a custom tool.
 
+▶ [Watch the recorded RobotStudio simulation](../assets/contour-following-simulation.mp4)
+
 ## Objective
 
 The objective was to prepare a repeatable robot trajectory along the edges of several objects. The project focused on defining the tool, the work object and the sequence of robot targets required for the simulation.
@@ -32,6 +34,7 @@ Except for the standard ABB robot model, all 3D elements used in this station we
 ## Files
 
 - [`contour-following.rspag`](station/contour-following.rspag) — ABB RobotStudio Pack & Go archive with the station and RAPID program.
+- [`contour-following-simulation.mp4`](../assets/contour-following-simulation.mp4) — recorded execution of the contour-following trajectory in RobotStudio.
 
 ## Software
 
