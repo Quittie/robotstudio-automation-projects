@@ -1,0 +1,7 @@
+# RobotStudio temporary and user-specific files
+*.rsuser
+*.bak
+
+# Operating-system files
+Thumbs.db
+.DS_Store
